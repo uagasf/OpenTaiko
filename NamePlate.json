@@ -1,0 +1,57 @@
+﻿{
+  "name": [
+    "プレイヤー1",
+    "プレイヤー2"
+  ],
+  "title": [
+    "初心者",
+    "初心者"
+  ],
+  "dan": [
+    "新人",
+    "新人"
+  ],
+  "danGold": [
+    false,
+    false
+  ],
+  "danType": [
+    0,
+    0
+  ],
+  "titleType": [
+    0,
+    0
+  ],
+  "puchiChara": [
+    "Cat 56",
+    "0"
+  ],
+  "medals": [
+    0,
+    0
+  ],
+  "character": [
+    1,
+    0
+  ],
+  "characterName": [
+    "Original Don-chan",
+    "0"
+  ],
+  "danTitles": [
+    null,
+    null
+  ],
+  "namePlateTitles": [
+    null,
+    null
+  ],
+  "unlockedPuchicharas": [
+    [
+      "Template",
+      "Cat 56"
+    ],
+    []
+  ]
+}
